@@ -1,1 +1,1 @@
-# MIT-Commputer-Science-Curriculum
+# MIT-Computer-Science-Curriculum
