@@ -24,4 +24,9 @@ Over the time, MIT has updated most of the courses and posted the content on sev
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
 
 To save someone the trouble of finding the latest courses and understanding the curriculum, I have laid down all the techincal courses from the latest sources in one place. Anyone willing to learn from the best engineering school in the world is welcome to do so for no fees! I have followed some courses personally and I'm sure you will develop a new appreciation for the subject like I did.
+Check the [PDF Course Curriculum](https://github.com/thetushargoyal/MIT-Computer-Science-Curriculum/blob/main/Course%20Curriculum.pdf) 
+
+
+
+
 
